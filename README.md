@@ -18,7 +18,7 @@ In conclusion, my research results demonstrate  that  1575 alloy components prod
 
 ## Related projects
 
-- [Campus — narrative RPG for TOEFL/IELTS prep]([code](https://github.com/Amusia-Mikhail/Campus-app))
+- [Campus — narrative RPG for TOEFL/IELTS prep](https://github.com/Amusia-Mikhail/Campus-app)
 - [AI-Powered English Learning Platform](https://github.com/Amusia-Mikhail/english-learning-platform-)
 - [Linguist Exam — diagnostic & score forecasting](https://github.com/Amusia-Mikhail/linguist-exam)
 - [Collegiate English — speech calibration](https://github.com/Amusia-Mikhail/Collegiate-English)
