@@ -13,3 +13,12 @@ In conclusion, my research results demonstrate  that  1575 alloy components prod
 > *Full original paper and presentation materials (in Russian) are available on request.*
 
 > **Note:** The original defense materials refer to alloy 1575 as an "aviation alloy", as my research advisor classified it at that time. While preparing this English summary, I independently checked this and found that alloy 1575 is officially classified as a marine/shipbuilding alloy (by the developing institute, CRISM Prometey), not an aviation alloy. This summary reflects the corrected classification.
+
+---
+
+## Related projects
+
+- [Campus — narrative RPG for TOEFL/IELTS prep]([code](https://github.com/Amusia-Mikhail/Campus-app))
+- [AI-Powered English Learning Platform](https://github.com/Amusia-Mikhail/english-learning-platform-)
+- [Linguist Exam — diagnostic & score forecasting](https://github.com/Amusia-Mikhail/linguist-exam)
+- [Collegiate English — speech calibration](https://github.com/Amusia-Mikhail/Collegiate-English)
